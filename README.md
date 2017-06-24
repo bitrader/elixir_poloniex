@@ -16,5 +16,6 @@ iex> Poloniex.ticker
 ```
 Copyright © 2017 Hotaviano Melo <hotaviano@melo.biz>
 
-This work is free. You can redistribute it and/or modify it under the terms of the GPL License. See the LICENSE file for more details.
+This work is free. You can redistribute it and/or modify it under the terms of the GPL License. 
+See the LICENSE file for more details.
 ```
